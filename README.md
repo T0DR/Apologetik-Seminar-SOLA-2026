@@ -1,0 +1,1 @@
+# Apologetik-Seminar-SOLA-2026
