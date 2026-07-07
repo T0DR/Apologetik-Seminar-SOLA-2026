@@ -1,5 +1,7 @@
 # Apologetik-Seminar-SOLA-2026
 
+<button onclick="window.print()">📄 Als PDF speichern</button> 
+
 ## 1. Gibt es Gott? 
 
 > **Leitfrage:** Gibt es gute Gründe anzunehmen, dass Gott existiert – oder ist Glaube nur Wunschdenken?
