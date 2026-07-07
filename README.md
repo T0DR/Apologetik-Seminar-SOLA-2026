@@ -7,7 +7,7 @@
 [2. Gab es Jesus?](#gab-es-jesus)
 [3. War die Auferstehung echt?](#war-die-auferstehung-echt)
 
-## 1. Gibt es Gott? 
+# Gibt es Gott? 
 
 > **Leitfrage:** Gibt es gute Gründe anzunehmen, dass Gott existiert – oder ist Glaube nur Wunschdenken?
 
@@ -151,7 +151,7 @@ Das Argument lautet also nicht "Alles hat eine Ursache", sondern **"Alles, was b
 
 ---
 
-# 2. Gab es Jesus?
+# Gab es Jesus?
 ## Exkurs: Historische Beweisführung
 - Beweise in Naturwissenschaften: Bewiesen ist, was sich wdh. lässt. --> Geburt und hist. einmalige Ereignisse? --> Naturwiss. Beweisführung nicht von Nutzen
 - Beweise in Hist. Wissenschaft: Einmalige Ereignisse werden anhand von Indizien rekonstruiert.
@@ -181,7 +181,7 @@ Außerbiblische Erwähnungen der Person Jesus Christus: Der römische Historiker
 
 ---
 
-# 3. War die Auferstehung echt?
+# War die Auferstehung echt?
 
 **Leitfrage:** Ist die Auferstehung Jesu historisch glaubwürdig oder nur ein Mythos?
 
