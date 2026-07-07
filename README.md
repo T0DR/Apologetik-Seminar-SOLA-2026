@@ -2,6 +2,11 @@
 
 <button onclick="window.print()">📄 Als PDF speichern</button> 
 
+### Inhaltsangabe
+[1. Gibt es Gott?](#gibt-es-gott)
+[2. Gab es Jesus?](#gab-es-jesus)
+[3. War die Auferstehung echt?](#war-die-auferstehung-echt)
+
 ## 1. Gibt es Gott? 
 
 > **Leitfrage:** Gibt es gute Gründe anzunehmen, dass Gott existiert – oder ist Glaube nur Wunschdenken?
@@ -166,7 +171,7 @@ Bsp. Julius Cäsers "Der Gallische Krieg":
 
 ---
 
-## Fazit und Schlussforlgerung
+## Fazit und Schlussfolgerung
 > "Die Auffassung, dass Jesus existiert hat, wird von nahezu jedem Fachmann auf der Erde geteilt." 
 > Dr. Bart Ehrman, Agnostiker
 
