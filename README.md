@@ -1,3 +1,8 @@
+---
+layout: default
+title: Startseite
+---
+
 # Apologetik-Seminar-SOLA-2026
 
 <button onclick="window.print()"> **→** 📄 ***Als PDF speichern***</button> 
