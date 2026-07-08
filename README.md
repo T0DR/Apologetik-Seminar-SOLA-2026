@@ -1,13 +1,6 @@
----
-layout: default
-title: Startseite
----
-
 # Apologetik-Seminar-SOLA-2026
 
 <button onclick="window.print()"> **→** 📄 ***Als PDF speichern***</button> 
-
-<button onclick="toggleTheme()">***Toggle Light/Dark Mode***🌙 / ☀️</button>
 
 **→ 🔗 Web-Link:** https://t0dr.github.io/Apologetik-Seminar-SOLA-2026/
 
