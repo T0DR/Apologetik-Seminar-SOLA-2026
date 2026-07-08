@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Apologetik-Seminar SOLA 2026</title>
+<style>
+  :root {
+    --bg: #faf8f5;
+    --text: #2b2b2b;
+    --accent: #6b4f3b;
+    --accent-light: #f9f9f9;
+    --border: #ddd;
+    --link: #8a5a3c;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 0 20px 60px;
+    background: var(--bg);
+    color: var(--text);
+    font-family: Georgia, 'Times New Roman', serif;
+    line-height: 1.65;
+  }
+  .wrap { max-width: 780px; margin: 0 auto; }
+  h1 {
+    font-size: 2rem;
+    margin-top: 40px;
+    text-align: center;
+  }
+  h2 {
+    font-size: 1.5rem;
+    margin-top: 48px;
+    border-bottom: 2px solid var(--accent);
+    padding-bottom: 6px;
+  }
+  h3 {
+    font-size: 1.15rem;
+    margin-top: 32px;
+    color: var(--accent);
+  }
+  hr {
+    border: none;
+    border-top: 1px solid var(--border);
+    margin: 32px 0;
+  }
+  a { color: var(--link); }
+  blockquote {
+    margin: 16px 0;
+    padding: 10px 18px;
+    border-left: 4px solid var(--accent);
+    background: var(--accent-light);
+    font-style: italic;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 16px 0;
+    font-size: 0.9rem;
+  }
+  th, td {
+    border: 1px solid var(--border);
+    padding: 8px 10px;
+    text-align: left;
+  }
+  th { background: #f0ebe4; }
+  .toc {
+    background: var(--accent-light);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px 28px;
+    margin: 24px 0;
+  }
+  .toc ul { margin: 4px 0; }
+  .toc a { text-decoration: none; }
+  .toc a:hover { text-decoration: underline; }
+
+  .button-box {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    padding: 15px;
+    margin: 20px 0 40px;
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    background: var(--accent-light);
+  }
+  .button-box button {
+    font-family: inherit;
+    font-size: 0.95rem;
+    padding: 8px 16px;
+    border: 1px solid var(--accent);
+    border-radius: 8px;
+    background: #fff;
+    color: var(--text);
+    cursor: pointer;
+  }
+  .button-box button:hover { background: #f0ebe4; }
+
+  @media print {
+    .button-box { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<h1>Apologetik-Seminar SOLA 2026</h1>
+
+<div class="button-box">
+  <button onclick="window.print()">📄 <em>Als PDF speichern</em></button>
+  <button onclick="navigator.clipboard.writeText('https://t0dr.github.io/Apologetik-Seminar-SOLA-2026/').then(()=>{this.innerHTML='✅ Kopiert!'; setTimeout(()=>{this.innerHTML='🔗 <em>Web-Link</em>'}, 1500)})">🔗 <em>Web-Link</em></button>
+  <a href="https://github.com/T0DR">
+    <img src="https://img.shields.io/github/followers/T0DR?label=Follow&style=social" alt="Follow @T0DR">
+  </a>
+</div>
+
+<div class="toc">
+<strong>Inhaltsangabe</strong>
+<ul>
+  <li><a href="#gibt-es-gott"><em><strong>Gibt es Gott?</strong></em></a>
+    <ul>
+      <li><a href="#drei-mögliche-antworten">Drei mögliche Antworten</a></li>
+      <li><a href="#argumente-für-gott">Argumente für Gott</a>
+        <ul>
+          <li><a href="#1-anfang-des-universum"><em>1# Anfang des Universum</em></a></li>
+          <li><a href="#2-feinabstimmung-des-universums"><em>2# Feinabstimmung des Universums</em></a></li>
+          <li><a href="#3-objektive-moral"><em>3# Objektive Moral</em></a></li>
+          <li><a href="#4-menschliches-denkvermögen"><em>4# Menschliches Denkvermögen</em></a></li>
+          <li><a href="#5-menschliches-bewusstsein"><em>5# Menschliches Bewusstsein</em></a></li>
+        </ul>
+      </li>
+      <li><a href="#die-wissenschaft-erklärt-gott-überflüssig">"Die Wissenschaft erklärt Gott überflüssig."</a></li>
+      <li><a href="#wenn-gott-alles-geschaffen-hat--wer-hat-gott-geschaffen">"Wenn Gott alles geschaffen hat – wer hat Gott geschaffen?"</a></li>
+      <li><a href="#fazit-argumente-für-gottes-existenz">Fazit: Argumente für Gottes Existenz</a></li>
+    </ul>
+  </li>
+  <li><a href="#gab-es-jesus"><em><strong>Gab es Jesus?</strong></em></a>
+    <ul>
+      <li><a href="#exkurs-historische-beweisführung">Exkurs: Historische Beweisführung</a></li>
+      <li><a href="#fazit-und-schlussfolgerung">Fazit und Schlussfolgerung</a></li>
+    </ul>
+  </li>
+  <li><a href="#war-die-auferstehung-echt"><em><strong>War die Auferstehung echt?</strong></em></a>
+    <ul>
+      <li><a href="#indizien">Indizien</a>
+        <ul>
+          <li><a href="#1-jesus-wurde-gekreuzigt-und-starb"><em>1# Jesus wurde gekreuzigt und starb</em></a></li>
+          <li><a href="#2-das-grab-war-leer"><em>2# Das Grab war leer</em></a></li>
+          <li><a href="#3-viele-menschen-berichteten-begegnungen-mit-jesus"><em>3# Viele Menschen berichteten Begegnungen mit Jesus</em></a></li>
+          <li><a href="#4-die-jünger-veränderten-sich-radikal"><em>4# Die Jünger veränderten sich radikal</em></a></li>
+          <li><a href="#5-bekehrungsgeschichte-paulus-wurde-christ"><em>5# Bekehrungsgeschichte: Paulus wurde Christ</em></a></li>
+        </ul>
+      </li>
+      <li><a href="#mögliche-erklärungen">Mögliche Erklärungen</a>
+        <ul>
+          <li><a href="#mögl1-die-jünger-haben-gelogen"><em>Mögl.1: Die Jünger haben gelogen</em></a></li>
+          <li><a href="#mögl2-jesus-war-gar-nicht-wirklich-tot"><em>Mögl.2: Jesus war gar nicht wirklich tot</em></a></li>
+          <li><a href="#mögl3-halluzinationen"><em>Mögl.3: Halluzinationen</em></a></li>
+          <li><a href="#mögl4-eine-spätere-legende"><em>Mögl.4: Eine spätere Legende</em></a></li>
+          <li><a href="#mögl5-jesus-ist-tatsächlich-auferstanden"><em>Mögl.5: Jesus ist tatsächlich auferstanden</em></a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+</div>
+
+<hr>
+
+<h1 id="gibt-es-gott">Gibt es Gott?</h1>
+
+<blockquote><strong>Leitfrage:</strong> Gibt es gute Gründe anzunehmen, dass Gott existiert – oder ist Glaube nur Wunschdenken?</blockquote>
+
+<p><strong>Wichtig:</strong><br>
+Die Existenz Gottes lässt sich weder mathematisch beweisen noch widerlegen. Die Frage ist: <em>Welche Weltsicht erklärt die Realität am besten?</em></p>
+
+<hr>
+
+<h3 id="drei-mögliche-antworten">Drei mögliche Antworten</h3>
+
+<p><strong>1. Ja – Gott existiert.</strong></p>
+<ul>
+  <li>Das Universum hat einen Schöpfer.</li>
+  <li>Moral hat einen objektiven Ursprung.</li>
+  <li>Bewusstsein und Vernunft sind letztlich erklärbar.</li>
+  <li>Die Feinabstimmung des Universums ist kein Zufall.</li>
+</ul>
+
+<p><strong>2. Nein – Gott existiert nicht.</strong></p>
+<ul>
+  <li>Alles entstand letztlich ohne Absicht.</li>
+  <li>Naturgesetze und Materie sind das Fundament der Realität.</li>
+  <li>Moral und Bewusstsein sind Produkte natürlicher Prozesse.</li>
+</ul>
+
+<p><strong>3. Man kann es nicht wissen.</strong></p>
+<ul>
+  <li>Diese Position nennt man <em>Agnostizismus</em>.</li>
+  <li>Sie sagt: "Vielleicht gibt es Gott, vielleicht auch nicht – wir können es nicht wissen."</li>
+</ul>
+
+<hr>
+
+<h2 id="argumente-für-gott">Argumente für Gott</h2>
+
+<h3 id="1-anfang-des-universum">1# Anfang des Universum</h3>
+
+<p>Heute gehen die meisten Kosmologen davon aus:</p>
+<ul>
+  <li>Das Universum begann vor etwa <strong>13,8 Milliarden Jahren</strong>.</li>
+  <li>Raum, Zeit und Materie entstanden gemeinsam.</li>
+  <li>Diese Erkenntnis wird unter anderem durch die Expansion des Universums und die kosmische Hintergrundstrahlung gestützt.</li>
+</ul>
+
+<p><strong>Warum existiert überhaupt etwas statt gar nichts?</strong><br>
+Alles, was beginnt zu existieren, hat normalerweise eine Ursache. Wenn auch das Universum einen Anfang hatte, woher kam seine Ursache?</p>
+
+<p>Die klassische Antwort lautet:</p>
+<ul>
+  <li>außerhalb von Raum</li>
+  <li>außerhalb der Zeit</li>
+  <li>unabhängig von Materie</li>
+</ul>
+
+<p>Viele Philosophen sehen darin Eigenschaften, die zu einem Schöpfergott passen.</p>
+
+<hr>
+
+<h3 id="2-feinabstimmung-des-universums">2# Feinabstimmung des Universums</h3>
+
+<p>Viele Naturkonstanten besitzen äußerst präzise Werte. Schon minimale Änderungen würden verhindern:</p>
+<ul>
+  <li>Sterne</li>
+  <li>Planeten</li>
+  <li>Chemie</li>
+  <li>Leben</li>
+</ul>
+
+<p><strong>Drei mögliche Erklärungen</strong></p>
+<ul>
+  <li>Zufall</li>
+  <li>Multiversum</li>
+  <li>Planung</li>
+</ul>
+
+<p>Keine dieser Möglichkeiten ist direkt beobachtbar. Viele Philosophen sehen deshalb Design als ernstzunehmende Erklärung.</p>
+
+<hr>
+
+<h3 id="3-objektive-moral">3# Objektive Moral</h3>
+
+<p>Fast jeder Mensch hält manche Dinge für wirklich falsch:</p>
+<ul>
+  <li>Folter unschuldiger Kinder</li>
+  <li>Völkermord</li>
+  <li>Menschenhandel</li>
+</ul>
+
+<p>Die Frage lautet: Sind diese Dinge nur persönliche Meinung? Oder sind sie <strong>wirklich</strong> falsch?</p>
+
+<p>Wenn es objektive moralische Werte gibt, stellt sich die Frage: Woher kommen sie?</p>
+
+<p><strong>Das Argument:</strong> Objektive moralische Werte passen besser zu einem moralischen Gesetzgeber als zu einer rein zufälligen Welt.</p>
+
+<hr>
+
+<h3 id="4-menschliches-denkvermögen">4# Menschliches Denkvermögen</h3>
+
+<p>Unsere Gehirne entstanden – nach naturalistischer Sicht – durch Evolution. Evolution bevorzugt Überleben und Fortpflanzung, nicht das Streben nach Wahrheit und Sinn.</p>
+
+<p>Warum sollten unsere Denkprozesse zuverlässig Wahrheit erkennen können?</p>
+
+<p>Der christliche Theismus erklärt diese Vernunft dadurch, dass Menschen nach dem Bild eines vernünftigen Schöpfers geschaffen wurden.</p>
+
+<hr>
+
+<h3 id="5-menschliches-bewusstsein">5# Menschliches Bewusstsein</h3>
+
+<p>Bis heute gibt es keine allgemein akzeptierte Erklärung dafür, wie aus Materie</p>
+<ul>
+  <li>Bewusstsein</li>
+  <li>Selbstwahrnehmung</li>
+  <li>freier Wille</li>
+  <li>subjektives Erleben</li>
+</ul>
+
+<p>entstehen und darin liegt eine offene Frage für einen rein materialistischen Naturalismus (<em>→ die gesamte Realität besteht ausschließlich aus physischer Materie und Energie</em>), der diese beantworten müsste.</p>
+
+<hr>
+
+<h2 id="die-wissenschaft-erklärt-gott-überflüssig">"Die Wissenschaft erklärt Gott überflüssig."</h2>
+
+<p>Die Wissenschaft erklärt, wie Naturgesetze funktionieren und wie Prozesse ablaufen. Sie beantwortet aber nicht unbedingt Fragen wie:</p>
+<ul>
+  <li>Warum existieren Naturgesetze?</li>
+  <li>Warum existiert überhaupt etwas?</li>
+  <li>Warum sind die Naturkonstanten so fein abgestimmt?</li>
+  <li>Warum ist Mathematik auf das Universum anwendbar?</li>
+</ul>
+
+<hr>
+
+<h2 id="wenn-gott-alles-geschaffen-hat--wer-hat-gott-geschaffen">"Wenn Gott alles geschaffen hat – wer hat Gott geschaffen?"</h2>
+
+<p>Das klassische Gottesverständnis lautet: Gott <strong>begann nicht zu existieren</strong>. Er ist nach klassischer Theologie:</p>
+<ul>
+  <li>ewig</li>
+  <li>notwendig</li>
+  <li>unverursacht</li>
+</ul>
+
+<p>Das Argument lautet also nicht "Alles hat eine Ursache", sondern <strong>"Alles, was beginnt zu existieren, hat eine Ursache."</strong></p>
+
+<hr>
+
+<h2 id="fazit-argumente-für-gottes-existenz">Fazit: Argumente für Gottes Existenz</h2>
+
+<ul>
+  <li>Das Universum hatte einen Anfang.</li>
+  <li>Alles, was beginnt zu existieren, benötigt eine Ursache.</li>
+  <li>Das Universum ist erstaunlich fein abgestimmt.</li>
+  <li>Objektive Moral weist auf einen moralischen Ursprung hin.</li>
+  <li>Vernunft und Bewusstsein sind schwer vollständig materialistisch zu erklären.</li>
+  <li>Die Existenz geordneter Naturgesetze wirft die Frage nach ihrem Ursprung auf.</li>
+</ul>
+
+<hr>
+
+<h1 id="gab-es-jesus">Gab es Jesus?</h1>
+
+<h2 id="exkurs-historische-beweisführung">Exkurs: Historische Beweisführung</h2>
+
+<ul>
+  <li>Beweise in Naturwissenschaften: Bewiesen ist, was sich wdh. lässt. → Geburt und hist. einmalige Ereignisse? → Naturwiss. Beweisführung nicht von Nutzen</li>
+  <li>Beweise in Hist. Wissenschaft: Einmalige Ereignisse werden anhand von Indizien rekonstruiert.</li>
+</ul>
+
+<p>Bsp. Julius Cäsers "Der Gallische Krieg":</p>
+
+<table>
+  <tr><th></th><th>Julius Caesar (De Bello Gallico)</th><th>Neues Testament</th></tr>
+  <tr><td>Entstehung der Originale</td><td>ca. 52–51 v. Chr.</td><td>ca. 50–100 n. Chr.</td></tr>
+  <tr><td>Älteste erhaltene Fragmente</td><td>spätes 9. Jahrhundert n. Chr.</td><td>ca. 125 n. Chr. (z. B. Papyrus)</td></tr>
+  <tr><td>Zeitlicher Abstand (Lücke)</td><td>ca. 900 Jahre</td><td>ca. 40 bis 70 Jahre (Fragmente) / ca. 250 Jahre (vollständig)</td></tr>
+  <tr><td>Anzahl griechische/lateinische Kopien</td><td>ca. 100 mittelalterliche Abschriften</td><td>Über 5.700 griechische Manuskripte (plus über 10.000 lateinische/andere)</td></tr>
+</table>
+
+<p><strong>→ Fazit zur Texttreue:</strong></p>
+<blockquote>
+"Es gibt kein anderes Dokument in der Antike, das literarisch so gut bezeugt und durch so viele Daten abgesichert ist, anhand derer eine vernünftige Entscheidung getroffen werden kann."<br>
+Prof. C. Pinnock in Set Forth Your Case, S. 58
+</blockquote>
+
+<hr>
+
+<h2 id="fazit-und-schlussfolgerung">Fazit und Schlussfolgerung</h2>
+
+<blockquote>
+"Die Auffassung, dass Jesus existiert hat, wird von nahezu jedem Fachmann auf der Erde geteilt."<br>
+Dr. Bart Ehrman, Agnostiker
+</blockquote>
+
+<p>Ohne Jesus gäbe es keine Kirche, keine Weltreligion, kein Ostern, Christi Himmelfahrt und Weihnachten.</p>
+
+<p>Außerbiblische Erwähnungen der Person Jesus Christus: Der römische Historiker Tacitus, der römischer Prokonsul Plinius der Jüngere, der jüdische Historiker Josephus, der Glaubenskritiker Professor Rudolf Bultmann → <a href="https://darumostern.de/gab-es-jesus-wirklich/">Link zu einigen Ja-Stimmen</a></p>
+
+<hr>
+
+<h1 id="war-die-auferstehung-echt">War die Auferstehung echt?</h1>
+
+<blockquote><strong>Leitfrage:</strong> Ist die Auferstehung Jesu historisch glaubwürdig oder nur ein Mythos?</blockquote>
+
+<h2 id="indizien">Indizien</h2>
+
+<h3 id="1-jesus-wurde-gekreuzigt-und-starb">1# Jesus wurde gekreuzigt und starb</h3>
+
+<p><strong>Warum ist das gut belegt?</strong></p>
+<ul>
+  <li>Kreuzigung unter Pontius Pilatus → Unabhängige außerbiblische Quellen bestätigen dies</li>
+  <li>Die Römer waren erfahrene Henker; es mussten immer zwei den Tod unabhängig voneinander bestätigen</li>
+  <li>Die Scheintod-Theorie gilt heute als äußerst unwahrscheinlich</li>
+</ul>
+
+<p><strong>Quellen</strong></p>
+<ul>
+  <li>Tacitus, <em>Annalen</em></li>
+  <li>Flavius Josephus, <em>Jüdische Altertümer</em></li>
+</ul>
+
+<hr>
+
+<h3 id="2-das-grab-war-leer">2# Das Grab war leer</h3>
+
+<p><strong>Indizien</strong></p>
+<ul>
+  <li>Frauen waren die ersten Zeugen
+    <ul>
+      <li>Im damaligen Judentum galten Frauen nicht als besonders glaubwürdige Zeugen.</li>
+      <li>Eine erfundene Geschichte hätte wahrscheinlich Männer als Erstzeugen genannt.</li>
+    </ul>
+  </li>
+  <li>Die Gegner behaupteten nicht: "Jesus liegt noch im Grab.", sondern "Die Jünger haben den Leichnam gestohlen." (Mt 28).</li>
+</ul>
+
+<p>→ Das setzt voraus, dass das Grab tatsächlich leer war.</p>
+
+<p><strong>Quellen</strong></p>
+<ul>
+  <li>N. T. Wright, <em>The Resurrection of the Son of God</em></li>
+  <li>Michael Licona</li>
+</ul>
+
+<hr>
+
+<h3 id="3-viele-menschen-berichteten-begegnungen-mit-jesus">3# Viele Menschen berichteten Begegnungen mit Jesus</h3>
+
+<p>Nach dem Neuen Testament erschien Jesus unter anderem:</p>
+<ul>
+  <li>Maria Magdalena</li>
+  <li>Petrus</li>
+  <li>den Zwölf</li>
+  <li>mehr als 500 Menschen gleichzeitig</li>
+  <li>Jakobus</li>
+  <li>Paulus</li>
+</ul>
+
+<p>(1. Korinther 15)</p>
+<ul>
+  <li>1. Korinther entstand bereits ca. 20–25 Jahre nach Jesu Tod.</li>
+  <li>Das dort zitierte Glaubensbekenntnis wird von vielen Forschern sogar auf wenige Jahre nach der Kreuzigung datiert.</li>
+</ul>
+
+<p><strong>Quellen</strong></p>
+<ul>
+  <li>Bibel, 1. Kor 15</li>
+  <li>James D. G. Dunn</li>
+  <li>Larry Hurtado</li>
+</ul>
+
+<hr>
+
+<h3 id="4-die-jünger-veränderten-sich-radikal">4# Die Jünger veränderten sich radikal</h3>
+
+<p><strong>Vor Ostern</strong></p>
+<ul>
+  <li>Angst</li>
+  <li>Flucht</li>
+  <li>Verstecken</li>
+</ul>
+
+<p><strong>Nach Ostern</strong></p>
+<ul>
+  <li>öffentliche Verkündigung</li>
+  <li>Gefängnis</li>
+  <li>Verfolgung</li>
+  <li>fast alle Märtyrertod</li>
+</ul>
+
+<p>Menschen sterben zwar für Überzeugungen, die falsch sein können.</p>
+<p>Aber niemand stirbt freiwillig für etwas, von dem er weiß, dass er es selbst erfunden hat.</p>
+
+<hr>
+
+<h3 id="5-bekehrungsgeschichte-paulus-wurde-christ">5# Bekehrungsgeschichte: Paulus wurde Christ</h3>
+
+<p>Vorher:</p>
+<ul>
+  <li>Christenverfolger</li>
+  <li>Gegner der Gemeinde</li>
+</ul>
+
+<p>Nach eigener Aussage: Begegnung mit dem auferstandenen Jesus</p>
+
+<p>Danach:</p>
+<ul>
+  <li>Missionar</li>
+  <li>zahlreiche Reisen</li>
+  <li>Briefe des Neuen Testaments</li>
+</ul>
+
+<hr>
+
+<h2 id="mögliche-erklärungen">Mögliche Erklärungen</h2>
+
+<h3 id="mögl1-die-jünger-haben-gelogen">Mögl.1: Die Jünger haben gelogen</h3>
+
+<p><strong>Probleme</strong></p>
+<ul>
+  <li>Warum Verfolgung akzeptieren?</li>
+  <li>Warum Gefängnis?</li>
+  <li>Warum Tod riskieren?</li>
+  <li>Kein finanzieller Vorteil</li>
+  <li>Kein politischer Gewinn</li>
+</ul>
+
+<hr>
+
+<h3 id="mögl2-jesus-war-gar-nicht-wirklich-tot">Mögl.2: Jesus war gar nicht wirklich tot</h3>
+
+<p>Auch bekannt als:</p>
+<ul>
+  <li>Scheintod-Theorie</li>
+</ul>
+
+<p><strong>Probleme</strong></p>
+<ul>
+  <li>Kreuzigung war äußerst zuverlässig</li>
+  <li>Speerstich</li>
+  <li>Römische Hinrichtungsexperten</li>
+</ul>
+
+<p>Heute wird diese Theorie kaum noch vertreten.</p>
+
+<hr>
+
+<h3 id="mögl3-halluzinationen">Mögl.3: Halluzinationen</h3>
+
+<p><strong>Probleme</strong></p>
+<p>Halluzinationen erklären nicht:</p>
+<ul>
+  <li>das leere Grab</li>
+  <li>Gruppenerscheinungen</li>
+  <li>Bekehrungsgeschichten (z.b. Paulus)</li>
+  <li>die Vielzahl unterschiedlicher Begegnungen</li>
+</ul>
+
+<hr>
+
+<h3 id="mögl4-eine-spätere-legende">Mögl.4: Eine spätere Legende</h3>
+
+<p><strong>Probleme</strong></p>
+<ul>
+  <li>Die Auferstehung wurde sehr früh verkündigt.</li>
+  <li>Das älteste Glaubensbekenntnis stammt wahrscheinlich aus den ersten Jahren nach Jesu Tod.</li>
+  <li>Viele Augenzeugen lebten noch.</li>
+</ul>
+
+<hr>
+
+<h3 id="mögl5-jesus-ist-tatsächlich-auferstanden">Mögl.5: Jesus ist tatsächlich auferstanden</h3>
+
+<p>Diese Erklärung passt zu allen historischen Daten:</p>
+<ul>
+  <li>leeres Grab</li>
+  <li>Erscheinungen</li>
+  <li>Veränderung der Jünger</li>
+  <li>Bekehrung des Paulus</li>
+  <li>schneller Beginn und Verbreitungs des Christentums</li>
+</ul>
+
+<p><strong>Quelle und lesenswerte Website für eigene Recherche bezüglich Jesus:</strong><br>
+DarumOstern → <a href="https://darumostern.de/">https://darumostern.de/</a></p>
+
+</div>
+</body>
+</html>
