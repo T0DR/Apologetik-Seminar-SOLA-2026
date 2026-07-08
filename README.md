@@ -2,9 +2,9 @@
 
 [![Follow @T0DR](https://img.shields.io/github/followers/T0DR?label=Follow&style=social)](https://github.com/T0DR)
 
-<button onclick="window.print()">📄 ***Als PDF speichern***</button> 
+<button onclick="window.print()">📄 <em>Als PDF speichern</em></button> 
 
-<button onclick="window.location.href='https://t0dr.github.io/Apologetik-Seminar-SOLA-2026/'">🔗 ***Web-Link***</button>
+<button onclick="navigator.clipboard.writeText('https://t0dr.github.io/Apologetik-Seminar-SOLA-2026/').then(()=>{this.innerHTML='✅ Kopiert!'; setTimeout(()=>{this.innerHTML='🔗 <em>Web-Link</em>'}, 1500)})">🔗 <em>Web-Link</em></button>
 
 ## Inhaltsangabe
 - [***Gibt es Gott?***](#gibt-es-gott)
