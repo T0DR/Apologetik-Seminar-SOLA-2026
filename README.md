@@ -1,11 +1,37 @@
 # Apologetik-Seminar-SOLA-2026
 
-<button onclick="window.print()">📄 Als PDF speichern</button> 
+<button onclick="window.print()"> **→** 📄 ***Als PDF speichern***</button> 
 
-### Inhaltsangabe
-[1. Gibt es Gott?](#gibt-es-gott)
-[2. Gab es Jesus?](#gab-es-jesus)
-[3. War die Auferstehung echt?](#war-die-auferstehung-echt)
+## Inhaltsangabe
+- [***Gibt es Gott?***](#gibt-es-gott)
+    - [Drei mögliche Antworten](#drei-mögliche-antworten)
+  - [Argumente für Gott](#argumente-für-gott)
+    - [*1# Anfang des Universum*](#1-anfang-des-universum)
+    - [*2# Feinabstimmung des Universums*](#2-feinabstimmung-des-universums)
+    - [*3# Objektive Moral*](#3-objektive-moral)
+    - [*4# Menschliches Denkvermögen*](#4-menschliches-denkvermögen)
+    - [*5# Menschliches Bewusstsein*](#5-menschliches-bewusstsein)
+  - ["Die Wissenschaft erklärt Gott überflüssig."](#die-wissenschaft-erklärt-gott-überflüssig)
+  - ["Wenn Gott alles geschaffen hat – wer hat Gott geschaffen?"](#wenn-gott-alles-geschaffen-hat--wer-hat-gott-geschaffen)
+  - [Fazit: Argumente für Gottes Existenz](#fazit-argumente-für-gottes-existenz)
+- [***Gab es Jesus?***](#gab-es-jesus)
+  - [Exkurs: Historische Beweisführung](#exkurs-historische-beweisführung)
+  - [Fazit und Schlussfolgerung](#fazit-und-schlussfolgerung)
+- [***War die Auferstehung echt?***](#war-die-auferstehung-echt)
+  - [Indizien](#indizien)
+    - [*1# Jesus wurde gekreuzigt und starb*](#1-jesus-wurde-gekreuzigt-und-starb)
+    - [*2# Das Grab war leer*](#2-das-grab-war-leer)
+    - [*3# Viele Menschen berichteten Begegnungen mit Jesus*](#3-viele-menschen-berichteten-begegnungen-mit-jesus)
+    - [*4# Die Jünger veränderten sich radikal*](#4-die-jünger-veränderten-sich-radikal)
+    - [*5# Bekehrungsgeschichte: Paulus wurde Christ*](#5-bekehrungsgeschichte-paulus-wurde-christ)
+  - [Mögliche Erklärungen](#mögliche-erklärungen)
+    - [*Mögl.1: Die Jünger haben gelogen*](#mögl1-die-jünger-haben-gelogen)
+    - [*Mögl.2: Jesus war gar nicht wirklich tot*](#mögl2-jesus-war-gar-nicht-wirklich-tot)
+    - [*Mögl.3: Halluzinationen*](#mögl3-halluzinationen)
+    - [*Mögl.4: Eine spätere Legende*](#mögl4-eine-spätere-legende)
+    - [*Mögl.5: Jesus ist tatsächlich auferstanden*](#mögl5-jesus-ist-tatsächlich-auferstanden)
+
+---
 
 # Gibt es Gott? 
 
@@ -39,7 +65,7 @@ Die Existenz Gottes lässt sich weder mathematisch beweisen noch widerlegen. Die
 ---
 ## Argumente für Gott
 
-### 1# Anfang des Universum
+### *1# Anfang des Universum*
 
 Heute gehen die meisten Kosmologen davon aus:
 
@@ -60,7 +86,7 @@ Viele Philosophen sehen darin Eigenschaften, die zu einem Schöpfergott passen.
 
 ---
 
-### 2# Feinabstimmung des Universums
+### *2# Feinabstimmung des Universums*
 
 Viele Naturkonstanten besitzen äußerst präzise Werte. Schon minimale Änderungen würden verhindern:
 
@@ -79,7 +105,7 @@ Keine dieser Möglichkeiten ist direkt beobachtbar. Viele Philosophen sehen desh
 
 ---
 
-### 3# Objektive Moral
+### *3# Objektive Moral*
 
 Fast jeder Mensch hält manche Dinge für wirklich falsch:
 
@@ -95,7 +121,7 @@ Wenn es objektive moralische Werte gibt, stellt sich die Frage: Woher kommen sie
 
 ---
 
-### 4# Menschliches Denkvermögen
+### *4# Menschliches Denkvermögen*
 
 Unsere Gehirne entstanden – nach naturalistischer Sicht – durch Evolution. Evolution bevorzugt Überleben und Fortpflanzung, nicht das Streben nach Wahrheit und Sinn.
 
@@ -105,7 +131,7 @@ Der christliche Theismus erklärt diese Vernunft dadurch, dass Menschen nach dem
 
 ---
 
-### 5# Menschliches Bewusstsein
+### *5# Menschliches Bewusstsein*
 
 Bis heute gibt es keine allgemein akzeptierte Erklärung dafür, wie aus Materie 
 - Bewusstsein
@@ -187,7 +213,7 @@ Außerbiblische Erwähnungen der Person Jesus Christus: Der römische Historiker
 
 ## Indizien
 
-### 1# Jesus wurde gekreuzigt und starb
+### *1# Jesus wurde gekreuzigt und starb*
 
 **Warum ist das gut belegt?**
 
@@ -202,7 +228,7 @@ Außerbiblische Erwähnungen der Person Jesus Christus: Der römische Historiker
 
 ---
 
-### 2# Das Grab war leer
+### *2# Das Grab war leer*
 
 **Indizien**
 
@@ -221,7 +247,7 @@ Außerbiblische Erwähnungen der Person Jesus Christus: Der römische Historiker
 
 ---
 
-### 3# Viele Menschen berichteten Begegnungen mit Jesus
+### *3# Viele Menschen berichteten Begegnungen mit Jesus*
 
 Nach dem Neuen Testament erschien Jesus unter anderem:
 
@@ -244,7 +270,7 @@ Nach dem Neuen Testament erschien Jesus unter anderem:
 
 ---
 
-### 4# Die Jünger veränderten sich radikal
+### *4# Die Jünger veränderten sich radikal*
 
 **Vor Ostern**
 
@@ -265,7 +291,7 @@ Aber niemand stirbt freiwillig für etwas, von dem er weiß, dass er es selbst e
 
 ---
 
-### 5# Bekehrungsgeschichte: Paulus wurde Christ
+### *5# Bekehrungsgeschichte: Paulus wurde Christ*
 
 Vorher:
 
@@ -284,7 +310,7 @@ Danach:
 
 ## Mögliche Erklärungen
 
-### Möglichkeit 1: Die Jünger haben gelogen
+### *Mögl.1: Die Jünger haben gelogen*
 
 **Probleme**
 
@@ -296,7 +322,7 @@ Danach:
 
 ---
 
-### Möglichkeit 2: Jesus war gar nicht wirklich tot
+### *Mögl.2: Jesus war gar nicht wirklich tot*
 
 Auch bekannt als:
 
@@ -312,7 +338,7 @@ Heute wird diese Theorie kaum noch vertreten.
 
 ---
 
-### Möglichkeit 3: Halluzinationen
+### *Mögl.3: Halluzinationen*
 
 **Probleme**
 
@@ -325,7 +351,7 @@ Halluzinationen erklären nicht:
 
 ---
 
-### Möglichkeit 4: Eine spätere Legende
+### *Mögl.4: Eine spätere Legende*
 
 **Probleme**
 
@@ -335,7 +361,7 @@ Halluzinationen erklären nicht:
 
 ---
 
-### Möglichkeit 5: Jesus ist tatsächlich auferstanden
+### *Mögl.5: Jesus ist tatsächlich auferstanden*
 
 Diese Erklärung passt zu allen historischen Daten:
 
