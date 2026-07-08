@@ -2,7 +2,7 @@
 
 <button onclick="window.print()">📄 <em>Als PDF speichern</em></button> 
 
-<button onclick="navigator.clipboard.writeText('https://t0dr.github.io/Apologetik-Seminar-SOLA-2026/').then(()=>{this.innerHTML='✅ Kopiert!'; setTimeout(()=>{this.innerHTML='🔗 <em>Web-Link</em>'}, 1500)})">🔗 <em>Web-Link</em></button>
+<button onclick="navigator.clipboard.writeText('https://t0dr.github.io/Apologetik-Seminar-SOLA-2026/').then(()=>{this.innerHTML='✅ Kopiert!'; setTimeout(()=>{this.innerHTML='🔗 <em>Web-Link</em>'}, 1500)})">🔗 <em>Web-Link: https://t0dr.github.io/Apologetik-Seminar-SOLA-2026/ </em></button>
 
 [![Follow @T0DR](https://img.shields.io/github/followers/T0DR?label=Follow&style=social)](https://github.com/T0DR)
 
