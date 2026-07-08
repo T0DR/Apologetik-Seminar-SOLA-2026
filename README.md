@@ -2,7 +2,7 @@
 
 <button onclick="window.print()"> **→** 📄 ***Als PDF speichern***</button> 
 
-**→ Web-Link:** https://t0dr.github.io/Apologetik-Seminar-SOLA-2026/
+**→ 🔗 Web-Link:** https://t0dr.github.io/Apologetik-Seminar-SOLA-2026/
 
 ## Inhaltsangabe
 - [***Gibt es Gott?***](#gibt-es-gott)
