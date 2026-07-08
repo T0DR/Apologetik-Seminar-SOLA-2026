@@ -1,5 +1,7 @@
 # Apologetik-Seminar-SOLA-2026
 
+[![Follow @T0DR](https://img.shields.io/github/followers/T0DR?label=Follow&style=social)](https://github.com/T0DR)
+
 <button onclick="window.print()"> **→** 📄 ***Als PDF speichern***</button> 
 
 **→ 🔗 Web-Link:** https://t0dr.github.io/Apologetik-Seminar-SOLA-2026/
